@@ -1,1 +1,2 @@
 This zip file contains five tables about the world ranking of universities, the idea is trying to create a data base and write sql lite commands for homework.
+Also we have added each table for a better visualization, we could specify that each table is a different way to valuate the position of each university in the wrold ranking, that is to say that we have three differents rankings with them own indicators. 
